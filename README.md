@@ -46,7 +46,7 @@ Currency-Converter/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DineshPabboju/Currency-Converter.git
+   git clone https://github.com/pulluruswarajyalaxmi/currency-convertor.git
 2. Navigate into the project directory:
    cd Currency-Converter
 3. Open index.html in your browser to run the app locally.
